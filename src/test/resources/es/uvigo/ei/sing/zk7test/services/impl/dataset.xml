@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<Log id="1" message="Hello" date="2014-03-01 12:00:01"/>
+	<Log id="2" message="World" date="2014-03-01 12:00:02"/>
+	<Log id="3" message="Hola" date="2014-03-01 12:00:03"/>
+	<Log id="4" message="Mundo" date="2014-03-01 12:00:04"/>
+	<Log id="5" message="Bonjour" date="2014-03-01 12:00:05"/>
+	<Log id="6" message="Monde" date="2014-03-01 12:00:06"/>
+</dataset>

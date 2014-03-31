@@ -1,0 +1,9 @@
+<zk>
+	<script src="zk/js/button-bs.js" />
+
+	<div class="btn-group">
+		<button sclass="btn-primary">Left</button>
+		<button sclass="btn-warning">Middle</button>
+		<button sclass="btn-danger">Right</button>
+	</div>
+</zk>
